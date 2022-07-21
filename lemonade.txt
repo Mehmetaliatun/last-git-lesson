@@ -6,3 +6,4 @@ Lemonade
 mint
 ice
 shaker
+strawberry syrup
